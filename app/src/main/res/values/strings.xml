@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shiki</string>
+    <string name="title_calendar">Календарь</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_user_rates">Списки</string>
+    <string name="title_user_profile">Профиль</string>
+
+    <string name="nodes_number">Node №%s</string>
+</resources>
